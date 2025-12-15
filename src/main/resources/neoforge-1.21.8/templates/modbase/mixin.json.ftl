@@ -28,7 +28,7 @@
     "ItemInHandLayerMixin",
     "CameraAccessor",
     "EntityRenderDispatcherMixin",
-    "HumanoidArmorLayerMixin",
+    "LivingEntityRendererMixin",
     "ItemInHandRendererMixin",
     "LevelRendererMixin"
   ],
